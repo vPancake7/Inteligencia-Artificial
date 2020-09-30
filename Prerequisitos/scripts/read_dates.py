@@ -14,4 +14,4 @@ data7 = archivo.readline()
 data8 = archivo.readline()
 archivo.close()
 
-print(data4.split())
+print(data4.split('\t'))
