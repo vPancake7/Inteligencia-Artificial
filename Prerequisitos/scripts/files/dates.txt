@@ -1,0 +1,11 @@
+1	15	April 16, 1994	April 1, 1995
+2	22	October 7, 1995	March 30, 1996
+3	21	November 16, 1996	October 25, 1997
+4	21	November 15, 1997	April 4, 1998
+5	20	December 12, 1998	October 23, 1999
+6	13	January 15, 2000	November 18, 2000
+7	13	January 19, 2002	May 4, 2002
+8	16	September 21, 2002	July 26, 2003
+9	14	October 11, 2003	June 26, 2004
+10	11	April 23, 2005	October 22, 2005
+11	36	June 15, 2019	August 14, 2020

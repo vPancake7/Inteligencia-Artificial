@@ -1,0 +1,3 @@
+path = # ubicacion del archivo
+open(path, 'w') as f:
+    f.write(data)
