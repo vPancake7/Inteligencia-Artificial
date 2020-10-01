@@ -14,4 +14,35 @@ data7 = archivo.readline()
 data8 = archivo.readline()
 archivo.close()
 
-print(data4.split('\t'))
+record4 = data4.split()
+fecha = record4[2]
+fecha1 = record4[3]
+fecha2 = record4[4]
+print(fecha, fecha1, fecha2)
+
+record4 = data5.split()
+fecha = record4[2]
+fecha1 = record4[3]
+fecha2 = record4[4]
+print(fecha, fecha1, fecha2)
+
+record4 = data6.split()
+fecha = record4[2]
+fecha1 = record4[3]
+fecha2 = record4[4]
+print(fecha, fecha1, fecha2)
+
+
+record4 = data7.split()
+fecha = record4[2]
+fecha1 = record4[3]
+fecha2 = record4[4]
+print(fecha, fecha1, fecha2)
+
+record4 = data8.split()
+fecha = record4[2]
+fecha1 = record4[3]
+fecha2 = record4[4]
+print(fecha, fecha1, fecha2)
+
+
