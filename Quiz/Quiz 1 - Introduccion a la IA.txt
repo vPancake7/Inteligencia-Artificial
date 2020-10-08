@@ -1,0 +1,68 @@
+Que es Inteliencia Artificial
+A. Hacer que las maquinas sean inteligentes 
+B. Programar con tu propia inteligencia una maquina
+C. Cuando estamos jugando un videojuego
+D. Tu inteligencia en un computador
+
+
+Cual no es un lenguaje comunmente utilizado para programar en inteligencia artificial
+A. Python
+B. Java
+C. C/C++
+D. Prolog
+
+
+Quien creo el principio del perceptron
+A. Platon
+B. Hinton
+C. Rosenblatt
+D. McCarty
+
+
+Como se le conocia a los sistema de IA anteriormente
+A. Sistemas de Alto Desempeno
+B. Sistemas Expertos
+C. Sistemas Cuanticos
+D. Sistemas Generalizados
+
+
+Que problema no puede resolver la IA del estado del arte hoy por hoy
+A. Reconocimiento de Voz
+B. Inteligencia Artificial General
+C. Juegos
+D. Planificacion Logistica
+
+
+La prueba total de Turing involucraba:
+A. Interaccion total del humano con ambos sistemas humano y maquina a traves de video cada uno y asi tambien probar sus habilidades perceptuales
+B. Someter solamente la entrada humana y esperar la respuesta para luego tomar la decision si aprueba o no.
+C. Juegos virtuales entre el humano y el Sistema de maquina
+D. Actividades relacionadas a exclusivamente machine learning
+
+
+Que hacia el programa STUDENT
+A. Resolvia problemas de hidrocarburos y compuestos
+B. Resolvia problemas de geometria
+C. Resolvia problemas de algebra
+D. Resolvia problemas de Principia de una major manera
+
+
+Para que area de la IA son mas utilizados los HMM (Hidden Markov Models)
+A. Vision por computador
+B. Analisis de Series de Tiempo
+C. Robotica Clasica
+D. Reconocimiento de Voz
+E. Redes generativas
+
+
+Para que area de la IA son mas utilizados los HMM (Hidden Markov Models)
+A. Vision por computador
+B. Analisis de Series de Tiempo
+C. Robotica Clasica
+D. Reconocimiento de Voz
+E. Redes generativas
+
+
+Actuar Racionalmente es relacionado a la Inteligencia Computacional donde se estudian los agentes inteligentes
+A. Cierto
+B. Falso

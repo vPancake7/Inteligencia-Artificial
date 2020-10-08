@@ -1,0 +1,62 @@
+Cual es la diferencia de agente y funcion de agente
+A. Un agente percibe y actua sobre el ambiente. La funcion de agente especifica la accion que tomara en respuesta de cualquier secuencia del percepto
+B. Un agente especifica la accion que tomara en respuesta a cualquier secuencia del percepto.  La funcion de agente percibe y actua sobre el ambiente.
+C. Un agente realiza la funcion de supervisar el ambiente.  La funcion de agente es un codigo que se ejecuta sobre el agente para realizar acciones recursivas.
+D. Un agente es un codigo que se ejecuta sobre la funcion de agente para realizar acciones recursivas.  La funcion de agente realiza la funcion de supervisar el ambiente.
+
+
+Que agente responde directamente al percepto
+A. Agente reflejo basado en modelo
+B. Agente Reflejo
+C. Agente Basado en Objetivo
+D. Agente Heuristico
+
+
+Todos los agentes pueden mejorar su desempeno a traves de aprendizaje
+A. Cierto
+B. Falso
+
+
+El estado del mundo es divisible en las representaciones atomicas:
+A. Cierto
+B. Falso
+
+
+Si el agente por medio de sus sensores da aceso al completo estado del ambiente en cada punto del tiempo decimos que la tarea del ambiente es:
+A. Deterministico
+B. Estocastico
+C. Completamente Obsevable
+D. Secuencial
+
+
+Si en el siguiente estado el ambiente no es completamente determinado por el estado actual y la acción ejecutada por el agente decimos que es un sistema:
+A. Deterministico
+B. Estocastico
+C. Episodico
+D. Secuencial
+
+
+El ultimo componente de un agente general de aprendizaje es:
+A. Una representación atómica
+B. El crítico
+C. El diagrama de espacio estado
+D. El generador de problemas
+
+
+Un agente:
+A. Es la parte sensorial del sistema de inteligencia artificial
+B. Forma parte del dominio de espacio latente
+C. Es parte de un proceso deterministico que busca equiparar la funcion de un robot
+D. percibe el ambiente y actua sobre el mismo 
+
+
+El programa agente:
+A. Implementa la funcion de agente
+B. Responde directamente a los perceptos
+C. Especifica e incluye la funcion de desempeno
+D. Varia el ambiente dependiendo de su obsevabilidad
+
+
+Todos los agentes pueden ser mejorados por medio de aprendizaje:
+A. Falso
+B. Cierto
